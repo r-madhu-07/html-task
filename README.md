@@ -1,6 +1,6 @@
 # html-task
 
-## ATM
+## AIM
 
    ``To Create a Daily Schedule Using a Table. Use <table>, <tr>, <td> to display tasks for each day of the week.``
 
